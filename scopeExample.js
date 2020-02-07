@@ -13,9 +13,9 @@ function foo () {
 }  
   
 foo() // 4, 2, 48  
-
+/* 
 IIFE, Immediately Invoked Function Expression, is a common pattern for  
-creating local scopes.  Z\\
+creating local scopes. */
 
 Example:  
 
